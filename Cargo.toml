@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Bjoern Griebenow <b.griebenow@web.de>"]
 
 [dependencies]
+maplit = "*"
